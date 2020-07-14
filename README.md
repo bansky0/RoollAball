@@ -1,2 +1,2 @@
 # RoollAball
-Video game devloped in Unity. it can send messages to Max/MSP
+Video game devloped in Unity. It sends messages to Max/MSP.
